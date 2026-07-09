@@ -4,7 +4,7 @@
 
 ## Student Information
 
-- Name: Bibek Subedi
+- Name: Rijan baraGhare
 - Program: Computer Engineering
 - Semester: 4th Semester
 - Course: Computer Architecture Lab
